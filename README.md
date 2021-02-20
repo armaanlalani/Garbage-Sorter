@@ -8,3 +8,5 @@ run the pi camera module v2 so that it can take photos and pass it through the c
 
 As such, running `python camera_rec.py` on the raspberry pi with the camera module enabled will load the model weights and pass signals to the arduino which allows
 us to sort garbage automatically. 
+
+Link to the DevPost for an overview of our project: https://devpost.com/software/makeuoft-mans
